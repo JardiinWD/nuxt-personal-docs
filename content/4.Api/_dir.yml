@@ -1,0 +1,3 @@
+title: 'API Build'
+icon: devicon:fastapi
+navigation.redirect: /api

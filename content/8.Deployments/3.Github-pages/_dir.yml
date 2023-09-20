@@ -1,0 +1,3 @@
+title: 'Github Pages'
+icon: mdi:github
+navigation.redirect: /deployments/github-pages

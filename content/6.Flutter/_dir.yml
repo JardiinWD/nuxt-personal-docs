@@ -1,0 +1,3 @@
+title: 'Flutter'
+icon: vscode-icons:file-type-flutter
+navigation.redirect: /flutter

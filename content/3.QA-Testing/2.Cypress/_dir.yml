@@ -1,0 +1,3 @@
+title: 'Cypress'
+icon: vscode-icons:file-type-cypress
+navigation.redirect: /qa-testing/cypress

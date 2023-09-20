@@ -1,0 +1,3 @@
+title: 'Mongo DB'
+icon: vscode-icons:file-type-mongo
+navigation.redirect: /backend/mongo-db

@@ -1,0 +1,3 @@
+title: 'QA Testing'
+icon: vscode-icons:file-type-light-testjs
+navigation.redirect: /qa-testing
